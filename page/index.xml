@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Albin</title>
+        <link>https://Albin-bin.github.io/albin-dev/page/</link>
+        <description>Recent content in Pages on Albin</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>为人民服务</copyright><atom:link href="https://Albin-bin.github.io/albin-dev/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Links</title>
+        <link>https://Albin-bin.github.io/albin-dev/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Albin-bin.github.io/albin-dev/links/</guid>
+        <description>&lt;p&gt;友情链接联系：ZVdGdWEyVmxNall5Tnc9PQ==&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://Albin-bin.github.io/albin-dev/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Albin-bin.github.io/albin-dev/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
